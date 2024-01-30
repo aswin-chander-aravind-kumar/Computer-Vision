@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libtimeBlur.a CMakeFiles/timeBlur.dir/src/timeBlur.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libtimeBlur.a
